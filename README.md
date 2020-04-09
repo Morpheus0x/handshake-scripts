@@ -7,7 +7,7 @@
 Debian based install example: `sudo apt install curl jq notify-send`
 
 ## Usage
-Just make the script executeable with `chmod +x script.sh` and run
+Just make the script executeable with `chmod +x script.sh` and run `./script.sh`
 
 ## Tips
 Use screen to run the script in the background
