@@ -8,6 +8,7 @@ Debian based install example: `sudo apt install curl jq notify-send`
 
 ## Usage
 Edit the script to change the server and api key, cli command comming soon&trade;
+
 Just make the script executeable with `chmod +x script.sh` and run `./script.sh`
 
 ## Tips
