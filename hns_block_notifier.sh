@@ -3,7 +3,9 @@
 # requirements: curl, jq, notify-send, date
 
 API_KEY="very_secure"
-SERVER="http://localhost:12037/"	#if hsd is hosted on a server, replace localhost with ip or domain
+
+#if hsd is hosted on a server, replace localhost with ip or domain
+SERVER="http://localhost:12037/"
 
 LAST_BLOCK="1"
 LAST_DATE="$(date +%s)"
