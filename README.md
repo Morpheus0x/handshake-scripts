@@ -15,7 +15,7 @@ Use [screen](https://linux.die.net/man/1/screen) or [byobu](https://www.byobu.or
 Example command: ./hsd --http-host 'yourdomain.com' --api-key 'your_key'
 
 ## Usage
-Edit the script to change the server and api key, cli coming soon&trade;
+Edit the script to change the server and api key, arguments coming soon&trade;
 
 Just make the script executeable with `chmod +x script.sh` and run `./script.sh`
 
