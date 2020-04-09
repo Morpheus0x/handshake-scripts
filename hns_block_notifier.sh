@@ -2,12 +2,6 @@
 
 # requirements: curl, jq, notify-send, date
 
-# hsd server setup
-# on the server open port 12037 (user ufw for easy firewall setup)
-# user 'openssl rand -hex 32' to create a strong api key
-# user screen or byobu to see what the output of hsd is, otherwise use the --daemon option
-# example command: ./hsd --http-host 'yourdomain.com' --api-key 'your_key'
-
 API_KEY="very_secure"
 SERVER="http://localhost:12037/"	#if hsd is hosted on a server, replace localhost with ip or domain
 
